@@ -1,5 +1,7 @@
 # Mongolian Grammar Checker
 
+**English** · [Монгол](README.mn.md)
+
 A Claude skill and a set of Python scripts that check Mongolian Cyrillic text (books, manuscripts, articles) against the official **«Монгол хэлний зөв бичих дүрмийн журамласан толь»** (ХБҮЗ, 2018). They produce an error report and, if you want, a corrected copy of the file.
 
 You can use it in two ways:
